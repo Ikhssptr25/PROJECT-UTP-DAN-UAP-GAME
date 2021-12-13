@@ -10,7 +10,7 @@
 //library untuk menggunakan getch
 
 #define LEBAR_LAYAR 105
-//Mendefinisikan bahwa lebar layar 106
+//Mendefinisikan bahwa lebar layar 105
 #define TINGGI_LAYAR 26
 //Mendefinisikan bahwa tinggi layar 26
 #define LEBAR_AREA 70 
