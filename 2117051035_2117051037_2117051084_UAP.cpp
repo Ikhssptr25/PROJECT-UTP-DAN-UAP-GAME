@@ -17,7 +17,7 @@
 //Mendefinisikan bahwa lebar layar game 70
 
 using namespace std; 
-//Memudahkan membuat code
+//Memudahkan agar tidak menulis std diberikutnya
  
 HANDLE console = GetStdHandle(STD_OUTPUT_HANDLE);
 COORD PosisiCursor;
