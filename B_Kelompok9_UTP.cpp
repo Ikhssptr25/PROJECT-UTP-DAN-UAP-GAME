@@ -13,7 +13,8 @@ int jumlah_bayar,jumlah_beli,jumlah_dibayar;
 int daftar_beli[100];
 string tipe_beli[100];
 int n;
-int uang,saldo;
+int uang;
+int saldo;
 string alamat, nama, umur;
 
 int main(){
