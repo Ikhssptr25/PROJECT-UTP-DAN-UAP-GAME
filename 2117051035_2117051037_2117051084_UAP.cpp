@@ -1,5 +1,5 @@
 #include <iostream>
-//library untuk menggunakan input dan output
+//library untuk menggunakan cout dan cin
 #include <dos.h> 
 //library untuk menggunakan dapat menambahkan sound dan sleep
 #include <windows.h>
