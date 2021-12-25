@@ -9,7 +9,7 @@ int main (){
 	  
    	
 	// deklarasi variabel//
-	float gaji_karyawan;
+	double gaji_karyawan;
 	double UMR_daerah ;
 	
 	//input data
