@@ -8,7 +8,7 @@ int main (){
 	  kelas B*/
 	  
    	
-	// deklarasi variabel//
+	/* deklarasi variabel*/
 	int gaji_karyawan;
 	int UMR_daerah ;
 	
